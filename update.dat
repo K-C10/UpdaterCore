@@ -1,6 +1,6 @@
-launcher_version 0.0.0
-sublauncher_version 0.0.0
-pageasm_version 0.0.0
+launcher_version 0.0.5
+sublauncher_version 0.0.5
+pageasm_version 0.0.5
 
 launcher_webfile https://raw.githubusercontent.com/K-C10/UpdaterCore/main/CompiledCode/Launcher.jar
 sublauncher_webfile https://raw.githubusercontent.com/K-C10/UpdaterCore/main/CompiledCode/SubLauncher.jar
