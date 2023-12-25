@@ -1,0 +1,14 @@
+Not to be read by program
+local-launcher_version 0.0.0
+local-sublauncher_version 0.0.0
+local-pageasm_version 0.0.0
+updatewebfile webURL
+
+update.dat keys
+launcher_version 0.0.0
+sublauncher_version 0.0.0
+pageasm_version 0.0.0
+
+launcher_webfile webURL
+sublauncher_webfile webURL
+pageasm_webfile webURL
